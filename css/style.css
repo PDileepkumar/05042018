@@ -956,7 +956,7 @@ img{
 
 .sec-title h2{
     position: relative;
-    color: #c75ea3;
+    color: #000080;
     font-size: 40px;
     font-weight: 600;
 	line-height:1.2em;
@@ -2046,7 +2046,7 @@ img{
 
 .main-footer .footer-widget h2{
 	position:relative;
-	color:#c75ea3;
+	color:#000080;
 	font-size:22px;
 	font-weight:600;
 	margin-bottom:25px;
