@@ -213,17 +213,17 @@ ul,li{
 	color:#ffffff;
 	font-size:17px;
 	font-weight:600;
-	background:#c75ea3;
+	background:#000080;
 	border-radius:4px;
-	border:2px solid #c75ea3;
+	border:2px solid #000080;
 	text-transform:capitalize;
 	font-family: 'Signika', sans-serif;
 }
 
 .btn-style-one:hover{
-	color:#c75ea3;
+	color:#000080;
 	background:none;
-	border-color:#c75ea3;
+	border-color:#000080;
 }
 
 /*Btn Style Two*/
@@ -235,17 +235,17 @@ ul,li{
 	color:#ffffff;
 	font-size:17px;
 	font-weight:600;
-	background:#38bbf3;
+	background:#17a144;
 	border-radius:4px;
-	border:2px solid #38bbf3;
+	border:2px solid #17a144;
 	text-transform:capitalize;
 	font-family: 'Signika', sans-serif;
 }
 
 .btn-style-two:hover{
-	color:#38bbf3;
+	color:#17a144;
 	background:none;
-	border-color:#38bbf3;
+	border-color:#17a144;
 }
 
 /*Btn Style Three*/
@@ -480,12 +480,12 @@ img{
 	top:0px;
 	width:100%;
 	z-index:5;
-	background-color:#232323;
+	background-color:#000080;
 }
 
 .main-header .nav-outer{
 	position:relative;
-	background-color:#232323;
+	background-color:#000080;
 }
 
 .main-menu{
@@ -1229,7 +1229,7 @@ img{
 	width:90px;
 	height:90px;
 	color:#ffffff;
-	font-size:38px;
+	font-size:58px;
 	text-align:center;
 	line-height:88px;
 	border-radius:50%;
@@ -1640,7 +1640,12 @@ img{
 	font-size:15px;
 	font-weight:400;
 }
-
+.inner-box .pull-left {
+    text-align: center;
+}
+.classes-left{
+	text-align: center;
+}
 /*** 
 
 ====================================================================
@@ -1696,7 +1701,7 @@ img{
 	-webkit-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
 	-o-transition:all 0.3s ease;
-	background-color:rgba(255,76,83,0.50);
+	background-color:rgba(255,255,255,0.40);
 }
 
 .team-block .inner-box:hover .image:before{
@@ -2197,7 +2202,7 @@ img{
 	font-size:16px;
 }
 .main-footer .footer-bottom .copyright span a{
-	color: #c75ea3;
+	color: #000080;
 	font-weight: bold;
 }
 /*** 
